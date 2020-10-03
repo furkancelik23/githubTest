@@ -1,4 +1,4 @@
 select Thomas
-from myThomasTable
-where train = yes
+from schema.myThomasTable
+where train = no
 ;
